@@ -24,9 +24,9 @@ header h1{
 #Bio pre{
     font-size: 20px;
 }
-Portfolio{
+#PortFolio{
     background-color: pink;
-    padding: 20px;
+    padding: 50px;
 }
 header h2{
     background-color: white;
